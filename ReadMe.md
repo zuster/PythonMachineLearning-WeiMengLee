@@ -1,6 +1,6 @@
 # PythonMachineLearning-WeiMengLee
 
-Python机器学习（Python Machine Leaning）— 源代码（Source Code）
+Python机器学习— 源代码（Python Machine Leaning - Source Code）
 
 (新加坡)李伟梦（Wei-Meng Lee） 著；李周芳译
 
